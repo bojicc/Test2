@@ -142,6 +142,9 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\BrandsController.cs" />
+    <Compile Include="Controllers\DeviceModels1Controller.cs" />
+    <Compile Include="Controllers\DeviceModelsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -208,6 +211,21 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Brands\Create.cshtml" />
+    <Content Include="Views\Brands\Delete.cshtml" />
+    <Content Include="Views\Brands\Details.cshtml" />
+    <Content Include="Views\Brands\Edit.cshtml" />
+    <Content Include="Views\Brands\Index.cshtml" />
+    <Content Include="Views\DeviceModels\Create.cshtml" />
+    <Content Include="Views\DeviceModels\Delete.cshtml" />
+    <Content Include="Views\DeviceModels\Details.cshtml" />
+    <Content Include="Views\DeviceModels\Edit.cshtml" />
+    <Content Include="Views\DeviceModels\Index.cshtml" />
+    <Content Include="Views\DeviceModels1\Create.cshtml" />
+    <Content Include="Views\DeviceModels1\Delete.cshtml" />
+    <Content Include="Views\DeviceModels1\Details.cshtml" />
+    <Content Include="Views\DeviceModels1\Edit.cshtml" />
+    <Content Include="Views\DeviceModels1\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
