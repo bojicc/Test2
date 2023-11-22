@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
@@ -7,6 +8,7 @@ namespace Test2.Models
 {
     public class DeviceModel
     {
+        [Key]
         public int ModelID { get; set; }
         public string ModelName { get; set; }
         public int BrandID { get; set; }

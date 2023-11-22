@@ -87,3 +87,5 @@ C:\Users\Bojić\Documents\Test2\Test2\Test2\bin\EntityFramework.dll
 C:\Users\Bojić\Documents\Test2\Test2\Test2\bin\EntityFramework.SqlServer.dll
 C:\Users\Bojić\Documents\Test2\Test2\Test2\bin\EntityFramework.xml
 C:\Users\Bojić\Documents\Test2\Test2\Test2\bin\EntityFramework.SqlServer.xml
+C:\Users\Bojić\Documents\Test2\Test2\Test2\obj\Debug\Test2.Migrations.FirstMigration.resources
+C:\Users\Bojić\Documents\Test2\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
